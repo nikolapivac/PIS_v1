@@ -10,6 +10,8 @@ namespace PIS_labovi
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+
         }
     }
 }
