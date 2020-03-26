@@ -8,5 +8,8 @@ namespace PIS_labovi
 {
     class NewClass
     {
+        
+        
+        //komentar (promjena)
     }
 }
