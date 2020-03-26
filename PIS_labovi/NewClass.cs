@@ -9,5 +9,8 @@ namespace PIS_labovi
     class NewClass
     {
         Action doNothing = () => { };
+        
+        
+        //komentar (promjena)
     }
 }
